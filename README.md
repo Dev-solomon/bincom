@@ -1,5 +1,6 @@
 # bincom
 This is the test code of bincom online preliminary test
+Add Bootstrap minifieds and jquery online or offline for this codebase
 
 Contains;
 --- For displaying the polling_unit_scores of each party
